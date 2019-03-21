@@ -1,0 +1,163 @@
+body {
+    font-family: georgia;
+    background-color: silver;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(allseasons2.jpg);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
+
+body#home {
+    background-image: url(allseasons2.jpg)
+}
+
+#home nav {
+    background-color: mediumpurple;
+    font-family: arial;
+}
+
+#home header {
+    background-color: silver;
+    font-family: georgia;
+}
+
+body#fall {
+    background-image: url(falltrees.jpg);
+}
+
+#fall nav {
+    background-color: orange;
+}
+#fall header {
+    background-color: red;
+}
+
+body#winter {
+    background-image: url(wintersun.jpg)
+}
+
+#winter nav {
+    background-color: skyblue;
+}
+
+#winter header {
+    background-color: navy;
+}
+
+body#spring {
+    background-image: url(spring.jpg)
+}
+
+#spring nav {
+    background-color: magenta;
+}
+
+#spring header {
+    background color: beige;
+}
+
+body#summer {
+    background-image: url(summersun.jpg)
+}
+
+#summer nav {
+    background-color: deepskyblue;
+}
+
+#summer header {
+    background-color: lawngreen;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header img {
+    width: 75%;
+    
+}
+
+header{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    background-size: 100%;
+    background-color: mediumvioletred;
+}
+
+nav{
+  background-color: skyblue;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+      
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+}
+
+nav li a {
+    padding: 0 50px;
+    text-decoration: none;
+    font-size: 1405;
+    color: darkblue;
+    font-family: noteworthy;
+}
+
+section{
+    padding: 10px;
+    background-color: #ffffff;
+    overflow: auto;
+}
+
+article {
+    text-align: center;
+    font-family: georgia;
+    font size: 30px;
+}
+
+.bgpic {
+    width: 50%;
+    float: center;
+    margin: 20px 20px 20px 20px;
+}
+
+footer{
+    background-color: #ec3d0f;
+    color: white;
+    padding: 10px;
+    text-align: center
+}
+
+figcaption {
+    background-color: none;
+    padding: 10px;
+}
+
+figcaption a {
+    text-decoration: none;
+    font-family: cursive;
+    
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: silver;
+    font-size: 40px;
+    
+}
+
+title {
+    font-family: sans-serif;
+}
