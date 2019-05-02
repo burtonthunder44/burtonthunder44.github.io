@@ -1,0 +1,192 @@
+body {
+    font-family: apple chancery;
+    background-color: none;
+    margin: 20px;
+    padding: 20px;
+    background-image: url("green-blue.jpg");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
+
+body#home {
+    background-image: url(green-blue.jpg)
+}
+
+#home nav {
+    color: black;
+    font-family: rockwell;  
+}
+
+#home header {
+    background-color: none;  
+}
+
+body#research center {
+    background-image:
+}
+
+#research center nav {
+    background-color: none;
+    padding: 10px;
+    margin: 0 auto;
+}
+#research center header {
+    background-color: none;
+}
+
+body#small groups {
+    background-image:
+}
+
+#small groups nav {
+    background-color: none;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+#small groups header {
+    background-color: none;
+}
+
+body#health talks {
+    background-image:
+}
+
+#health talks nav {
+    background-color: none;
+}
+
+#health talks header {
+    background color: none;
+}
+
+body#contact {
+    background-image: 
+}
+
+#contact nav {
+    background-color: none;
+    color: white;
+}
+
+#contact header {
+    background-color: none;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header img {
+    width: 75%;
+    
+}
+
+header{
+    background-color:
+    padding: 5px;
+    text-align: center;
+    background-size: 100%;
+    background-color: none;
+}
+
+nav{
+  background color: none;
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+      
+}
+
+nav ul {
+    margin: 0 auto;
+    padding: 15px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+    color: silver;
+}
+
+nav li a {
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    color: white;
+    font-family: rockwell;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+nav a {
+    
+}
+
+section{
+    padding: 10px;
+    background-color: none;
+    overflow: auto;
+}
+
+article {
+    text-align: center;
+    font-family: rockwell;
+    font size: 30px;
+    background-color:rgba(255,255,255,.5);
+    padding: 40px;
+    
+}
+
+.bgpic {
+    width: 500px;
+    float: center;
+    margin: 0 auto;
+}
+
+footer{
+    background-color: none;
+    color: none;
+    padding: none;
+    text-align: center;
+}
+
+h1 {
+    font-family: apple chancery;
+    text-align: center;
+    color: teal;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: apple chancery;
+    text-align: center;
+    color: aqua;
+    font-size: 50px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+title {
+    font-family: apple chancery;
+    color: darkblue;
+}
+
+p {
+    color: #003152;
+    font-family: rockwell;
+    text-align: center;
+    padding: 15px;
+}
+
+@font-face {
+    font-family: 'Wendy One', sans-serif;
+    src: url(www.google.com/webfonts);
+}
