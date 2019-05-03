@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
+
 body {
-    font-family: apple chancery;
+   font-family: 'Wendy One', sans-serif;
     background-color: none;
     margin: 20px;
     padding: 20px;
@@ -141,6 +143,10 @@ article {
     
 }
 
+article h1 {
+    font-family: 'Wendy One', sans-serif;
+}
+
 .bgpic {
     width: 500px;
     float: center;
@@ -183,7 +189,7 @@ p {
     color: #003152;
     font-family: rockwell;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
 }
 
 @font-face {
