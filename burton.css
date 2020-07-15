@@ -1,0 +1,164 @@
+body {
+    font-family: georgia;
+    background-color: silver;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(siblings.JPG);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: cover;
+}
+
+body#home {
+    background-image: url(siblings.JPG);
+}
+
+#home nav {
+    background-color: mediumturquoise;
+    font-family: cursive;
+}
+
+#home header {
+    background-color: silver;
+    font-family: georgia;
+}
+
+body#biography {
+    background-image: url(fairylights.jpg)
+}
+
+#biography nav {
+    background-color: skyblue;
+    font-family: georgia;
+}
+
+#biography header {
+    background-color: darkred;
+}
+
+photogallery#home {
+    background-image: url(photogallery.png)
+}
+
+#photogallery nav {
+    background-color: none;
+}
+
+#photogallery header {
+    background-color: none;
+}
+
+body#outdoors {
+    background-image: url(outdoors.png)
+}
+
+#outdoors nav {
+    background-color: darkorange;
+}
+
+#outdoors header {
+    background-color: olivedrab;
+}
+
+body#trips {
+    background-image: url(canada.jpg)
+}
+
+#trip nav {
+    background-color: lightblue;
+}
+
+#trip header {
+    background-color: lightgray;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header img {
+    width: 75%;
+}
+
+header {
+    background-color: none;
+    padding: 10px;
+    text-align: center;
+    background-size: 100%;
+    background-color: silver;
+}
+
+nav {
+    background-color: ;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+}
+
+nav li a {
+    padding: 0 50px;
+    text-decoration: none;
+    font-size: 1405;
+    color: darkred;
+    font-family: noteworthy;
+}
+
+section {
+    padding: 10px;
+    background-color: white;
+    overflow: auto;
+}
+
+article {
+    text-align: center;
+    font-family: georgia;
+    font-size: 30px;
+}
+
+.bgpic {
+    width: 50%;
+    float: center;
+    margin: 20px 20px 20px 20px;
+}
+
+footer {
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+figcaption {
+    background-color: none;
+    padding: 10px;
+}
+
+figcaption a {
+    text-decoration: none;
+    font-family: cursive;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    color: orange;
+    font-size: 40px;
+}
+
+title {
+    font-family: noteworthy;
+}
+
+
+
